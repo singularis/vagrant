@@ -1,1 +1,1 @@
-Diferent vagrant staff
+Diferent vagrant stuff
